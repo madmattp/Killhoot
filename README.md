@@ -1,2 +1,2 @@
 # Killhoot
-A Discord bot that enters a kahoot session with multiple accounts
+A Discord bot that enters inside a kahoot session with multiple accounts.
