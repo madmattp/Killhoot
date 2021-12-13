@@ -1,4 +1,4 @@
-# Code by madmattp.
+# Code by madmattp https://github.com/madmattp
 
 from kahoot import client as account
 from os import system
