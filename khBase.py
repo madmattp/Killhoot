@@ -1,3 +1,5 @@
+# Code by madmattp.
+
 from kahoot import client as account
 from os import system
 
