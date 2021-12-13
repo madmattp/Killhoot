@@ -1,4 +1,4 @@
-# Made by madmattp
+# Code by madmattp https://github.com/madmattp
 
 import discord
 from discord.ext import commands, tasks
